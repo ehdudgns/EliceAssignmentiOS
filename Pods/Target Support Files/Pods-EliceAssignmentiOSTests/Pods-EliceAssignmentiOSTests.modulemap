@@ -1,0 +1,6 @@
+framework module Pods_EliceAssignmentiOSTests {
+  umbrella header "Pods-EliceAssignmentiOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
